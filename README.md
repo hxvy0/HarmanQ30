@@ -3,8 +3,8 @@ An applicable equalizer setting from the Soundcore official app.
 
 ## The Equalizer Setting...
 (-6)(+6)(+2)(+4)(+2)(+6)(+2)(+2)
-![1737061986953844575422460832114]
-https://raw.githubusercontent.com/hxvy0/HarmanQ30/refs/heads/main/Screenshot_20250129-175416_soundcore.png
+![1000000585](https://github.com/user-attachments/assets/61883535-d34a-4d26-b393-741286f620f4)
+
 
 
 ## Frequency Responce
