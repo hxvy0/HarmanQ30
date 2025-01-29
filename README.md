@@ -2,8 +2,8 @@
 An applicable equalizer setting from the Soundcore official app.
 
 ## The Equalizer Setting...
-(-6)(+6)(+2)(+4)(+2)(+6)(-2)(-2)
-![1737061965074202435418042859348](https://github.com/user-attachments/assets/02a55df9-9f34-4a31-aedd-2b4ebde92e43)
+(-6)(+6)(+2)(+4)(+2)(+6)(+2)(+2)
+
 
 
 ## Frequency Responce
