@@ -1,5 +1,5 @@
 # HarmanQ30
-An applicable equalizer setting from the Soundcore official app.
+This preset is designed to provide a natural and balanced audio experience, making it a great starting point for most listeners. It's a good choice if you're looking for a faithful reproduction of your music, use with your official soundcore app.
 
 ## The Equalizer Setting...
 (-6)(+6)(+2)(+4)(+2)(+6)(+2)(+2)
