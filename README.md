@@ -4,9 +4,10 @@ This preset is optimized for audiophiles seeking to capture every nuance of thei
 This equalizer is for Soundcore Q30 and Q30 (Upgraded)
 
 ## The Equalizer Setting...
-![1000000585](https://github.com/user-attachments/assets/61883535-d34a-4d26-b393-741286f620f4)
+![1000001300](https://github.com/user-attachments/assets/9c6c653a-2ee6-4855-bc9e-36f7f187d25c)
 
-(-6)(+6)(+2)(+4)(+2)(+6)(+2)(+2)
+
+(-6)(+6)(+2)(+4)(+2)(+6)(0)(-1)
 
 ## Frequency Responce
 ![1737061986953844575422460832114](https://github.com/user-attachments/assets/a1865227-8dff-45bf-8b36-d9d874073686)
