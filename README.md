@@ -4,10 +4,9 @@ This preset is optimized for audiophiles seeking to capture every nuance of thei
 This equalizer is for Soundcore Q30 and Q30 (Upgraded)
 
 ## The Equalizer Setting...
-(-6)(+6)(+2)(+4)(+2)(+6)(+2)(+2)
 ![1000000585](https://github.com/user-attachments/assets/61883535-d34a-4d26-b393-741286f620f4)
 
-
+(-6)(+6)(+2)(+4)(+2)(+6)(+2)(+2)
 
 ## Frequency Responce
 ![1737061986953844575422460832114](https://github.com/user-attachments/assets/a1865227-8dff-45bf-8b36-d9d874073686)
@@ -15,4 +14,6 @@ This equalizer is for Soundcore Q30 and Q30 (Upgraded)
 - Purple is HarmanQ30
 
 ### A little note
-I have the Q30 (upgraded) model, and while I think it's almost identical to the regular Q30, there might be some minor differences. One thing to keep in mind when using the equalizer is that...
+I have the Q30 (upgraded) model, and while I think it's almost identical to the regular Q30, there might be some minor differences. 
+
+I dont recommend using AAC codec. Worse sound quality and higher power consumption.
